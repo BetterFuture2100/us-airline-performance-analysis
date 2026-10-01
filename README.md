@@ -2,7 +2,7 @@
 
 An executive Power BI dashboard analyzing 10,000 US flights to evaluate market share, cancellation rates, and carrier delay benchmarks.
 
-![Dashboard Preview](dashboard_preview.png)
+<img src="dashboard_preview.png" alt="Dashboard Preview" width="100%">
 
 ---
 
